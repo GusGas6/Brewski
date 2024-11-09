@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/NewMap.umap",
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/_GENERATED/Bruger/CubeGridToolOutput_C234EF4C.uasset",
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/_GENERATED/Bruger/Box_8517CF70.uasset",
@@ -21,6 +22,9 @@
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/VertexColorViewMode_GreenOnly.uasset",
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/LongCapsuleReference.uasset",
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/SmallSphereReference.uasset",
+=======
+				"E:/Brewsky/Brewski/BrewskyBrawlers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/Bruger/OneDrive/oldoldold/GitHub/Brewski/BrewskyBrawlers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset",
 				"C:/Brewski/BrewskyBrawlers/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
