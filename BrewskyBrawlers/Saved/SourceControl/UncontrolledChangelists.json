@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gusta/Documents/GitHub/Brewski/BrewskyBrawlers/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Users/gusta/Documents/GitHub/Brewski/BrewskyBrawlers/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/gusta/Documents/GitHub/Brewski/BrewskyBrawlers/Content/wilFolder/NewMap.umap"
+			]
+		}
+	]
+}
